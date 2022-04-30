@@ -1,0 +1,24 @@
+.bulb-container{
+    margin: 25px;
+    text-align: center;
+}
+button{
+    border-radius: 20px;
+    background: #1bfd5f;
+    height: 45px;
+    width: auto;
+    font-size: 18px;
+}
+h1{
+    font-style: oblique;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+   text-align: center;
+   background-color: rgb(243, 55, 55);
+}
+img{
+    height: 300px;
+    width: 300px;
+}
